@@ -28,6 +28,12 @@ implementation group: 'com.pi4j', name: 'pi4j-core', version: '2.4.0'
 // https://mvnrepository.com/artifact/edu.wpi.first.wpilib.repositories/wpilib-repositories-plugin
 implementation group: 'edu.wpi.first.wpilib.repositories', name: 'wpilib-repositories-plugin', version: '2020.2'
 
+// https://mvnrepository.com/artifact/com.pi4j/pi4j-plugin-linuxfs
+implementation group: 'com.pi4j', name: 'pi4j-plugin-linuxfs', version: '2.4.0'
+
+// https://mvnrepository.com/artifact/io.mraa.upm/upm_pca9685
+implementation group: 'io.mraa.upm', name: 'upm_pca9685', version: '1.7.1'
+
 
 
     // Use JUnit test framework
